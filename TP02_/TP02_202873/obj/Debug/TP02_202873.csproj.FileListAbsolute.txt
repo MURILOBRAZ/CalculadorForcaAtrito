@@ -1,0 +1,10 @@
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\bin\Debug\TP02_202873.exe.config
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\bin\Debug\TP02_202873.exe
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\bin\Debug\TP02_202873.pdb
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\obj\Debug\TP02_202873.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\obj\Debug\TP02_202873.FrmGeral.resources
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\obj\Debug\TP02_202873.Properties.Resources.resources
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\obj\Debug\TP02_202873.csproj.GenerateResource.cache
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\obj\Debug\TP02_202873.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\obj\Debug\TP02_202873.exe
+D:\Games\Visual Studio\Projetos\TP02_202873\TP02_202873\obj\Debug\TP02_202873.pdb
